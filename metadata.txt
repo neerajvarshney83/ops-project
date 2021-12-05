@@ -1,0 +1,2 @@
+file=/var/www/html/index.php
+content=<html> <body> <?php header("Content-Type: text/plain"); echo '<p>"Hello,World!!"</p> </body> </html>
